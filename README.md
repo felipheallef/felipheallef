@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @felipheallef
+- 👀 I’m interested in learning new technologies and developing a new future
+- 🌱 I’m currently learning Kotlin
+- 📫 Reach me by sending an email to contato@felipheallef.com
