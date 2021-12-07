@@ -2,7 +2,7 @@
 
 👨🏻‍💻 Olá! Meu nome é Feliphe Allef, sou **Desenvolvedor de Software** e apaixonado por tecnologia e atualmente estou cursando **Engenharia de Software**. Estou disponível para trabalho, caso precise contratar meu serviço entre em contato.
 
-⚡ Habilidades: **HTML/CSS, JavaScript, PHP, Java, Kotlin, C# e C/C++.**
+⚡ Habilidades: **HTML/CSS, JavaScript, PHP, Java, Kotlin, Flutter, C# e C/C++.**
 
 💼 Ferramentas: **Intellij IDEA, Android Studio, VSCode, Linux, Git and GitHub.**
 
