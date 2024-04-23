@@ -1,6 +1,6 @@
 ## Sobre mim
 
-👨🏻‍💻 Olá! Meu nome é Feliphe Allef, sou **Desenvolvedor de Software** e apaixonado por tecnologia e atualmente estou cursando **Engenharia de Software**. Estou disponível para trabalho, caso precise contratar meu serviço entre em contato.
+👨🏻‍💻 Olá! Meu nome é Feliphe Allef, sou **Desenvolvedor de Software** e apaixonado por tecnologia e atualmente estou cursando **Engenharia de Software**. Estou disponível para trabalho, caso precise contratar meu serviço <a href="mailto:contato@felipheallef.dev" target="_blank">entre em contato</a>.
 
 ⚡ Habilidades: **HTML/CSS, JavaScript, PHP, Java, Kotlin, Flutter, C# e C/C++.**
 
@@ -8,9 +8,19 @@
 
 <a href="https://www.linkedin.com/in/felipheallef" target="_blank">![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=ffffff)</a>
 <a href="https://felipheallef.com" target="_blank">![hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=Hashnode&logoColor=ffffff)</a>
-<a href="https://instagram.com/felipheallef" target="_blank">![hashnode](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=ffffff)</a>
+<a href="https://instagram.com/felipheallef.dev" target="_blank">![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=ffffff)</a>
 
 ## Linguagens e ferramentas
+### IDEs
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="38" />
+</p>
+
 ### Linguagens
 <p align="left">
   <!-- Kotlin and Java -->
